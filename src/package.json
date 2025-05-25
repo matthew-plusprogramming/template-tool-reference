@@ -1,0 +1,14 @@
+{
+  "name": "template-tool-reference",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "type": "module",
+  "packageManager": "npm@11.2.0",
+  "devDependencies": {
+    "turbo": "^2.5.3"
+  },
+  "workspaces": [
+    "packages/**",
+    "apps/**"
+  ]
+}
